@@ -10,4 +10,4 @@ jobs:
   build:
     uses: takutakahashi/github-actions/.github/workflows/ghcr.yaml@main
     with:
-      image: localport:latest
+      image: takutakahashi/localport:latest
