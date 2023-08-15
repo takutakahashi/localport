@@ -1,6 +1,10 @@
 # localport
 reverse proxy for local
 
+## NOTICE
+
+DO NOT USE IT FOR PRODUCTION!!! DEVELOPMENT AND HOME USE ONLY!!!
+
 ## Usage
 
 ### 1. Run a container on external-reachable host
