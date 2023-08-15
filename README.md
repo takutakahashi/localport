@@ -5,6 +5,7 @@ reverse proxy for local
 
 DO NOT USE IT FOR PRODUCTION!!! DEVELOPMENT AND HOME USE ONLY!!!
 
+It's recommended to deploy behind closed network and access via VPN, or under mult-layered security environment.
 ## Usage
 
 ### 1. Run a container on external-reachable host
